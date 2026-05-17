@@ -21,4 +21,4 @@ Solving LeetCode Top 150 + NeetCode 150. One problem daily. No zero days.
 **Why Google?** Building for billions. That's the scale I want.
 
 ---
-**Connect:** [LinkedIn](put-your-link-here) | **Streak:** Check contribution graph below 👇
+**Connect:** [LinkedIn](https://linkedin.com/in/deekshitha-k-m-5975a43bb) | **Streak:** Check contribution graph below 👇
